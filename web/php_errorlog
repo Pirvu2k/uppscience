@@ -1,0 +1,27 @@
+[26-Apr-2016 10:22:12 CST6CDT] PHP Parse error:  syntax error, unexpected T_OBJECT_OPERATOR in /home/visconti/public_html/cop/web/index.php on line 12
+[26-Apr-2016 10:29:00 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/visconti/public_html/cop/models/Expert.php on line 28
+[26-Apr-2016 10:31:25 CST6CDT] PHP Fatal error:  Using $this when not in object context in /home/visconti/public_html/cop/models/Expert.php on line 28
+[26-Apr-2016 15:16:19 CST6CDT] PHP Parse error:  syntax error, unexpected '=' in /home/visconti/public_html/cop/views/studentexperience/_form.php on line 32
+[27-Apr-2016 18:10:55 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW), expecting ']' in /home/visconti/public_html/cop/controllers/CanvasController.php on line 380
+[27-May-2016 18:42:39 CST6CDT] PHP Fatal error:  Class 'jlorente\remainingcharacters\RemainingCharacters' not found in /home/visconti/public_html/cop/views/canvas/_form.php on line 67
+[27-May-2016 18:45:12 CST6CDT] PHP Fatal error:  Class 'jlorente\remainingcharacters\RemainingCharacters' not found in /home/visconti/public_html/cop/views/canvas/_form.php on line 67
+[04-Jun-2016 14:51:30 CST6CDT] PHP Fatal error:  Call to a member function formName() on null in /home/visconti/public_html/cop/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2096
+[04-Jun-2016 14:51:51 CST6CDT] PHP Fatal error:  Call to a member function formName() on null in /home/visconti/public_html/cop/vendor/yiisoft/yii2/helpers/BaseHtml.php on line 2096
+[04-Jun-2016 14:57:25 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/visconti/public_html/cop/views/site/forgot.php on line 29
+[04-Jun-2016 15:39:46 CST6CDT] PHP Fatal error:  Call to undefined method stdClass::update() in /home/visconti/public_html/cop/controllers/SiteController.php on line 158
+[04-Jun-2016 17:37:43 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/visconti/public_html/cop/controllers/SiteController.php on line 296
+[04-Jun-2016 17:37:48 CST6CDT] PHP Parse error:  syntax error, unexpected 'public' (T_PUBLIC) in /home/visconti/public_html/cop/controllers/SiteController.php on line 296
+[04-Jun-2016 17:42:09 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/visconti/public_html/cop/views/site/forgot.php on line 44
+[04-Jun-2016 17:42:53 CST6CDT] PHP Parse error:  syntax error, unexpected end of file in /home/visconti/public_html/cop/views/site/forgot.php on line 44
+[04-Jun-2016 17:58:03 CST6CDT] PHP Fatal error:  Call to a member function get() on null in /home/visconti/public_html/cop/views/site/recovery.php on line 10
+[04-Jun-2016 18:04:40 CST6CDT] PHP Fatal error:  Class 'app\controllers\RecoveryForm' not found in /home/visconti/public_html/cop/controllers/SiteController.php on line 154
+[04-Jun-2016 18:47:52 CST6CDT] PHP Fatal error:  Class 'app\controllers\RecoveryForm' not found in /home/visconti/public_html/cop/controllers/SiteController.php on line 154
+[04-Jun-2016 18:51:08 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/visconti/public_html/cop/views/site/recovery.php on line 49
+[04-Jun-2016 18:51:09 CST6CDT] PHP Parse error:  syntax error, unexpected ';', expecting ']' in /home/visconti/public_html/cop/views/site/recovery.php on line 49
+[04-Jun-2016 18:51:39 CST6CDT] PHP Parse error:  syntax error, unexpected '=>' (T_DOUBLE_ARROW) in /home/visconti/public_html/cop/views/site/recovery.php on line 52
+[04-Jun-2016 18:55:28 CST6CDT] PHP Fatal error:  Can't use method return value in write context in /home/visconti/public_html/cop/views/site/recovery.php on line 53
+[19-Aug-2016 08:49:54 CST6CDT] PHP Fatal error:  Call to a member function getAttributeLabel() on null in /home/visconti/public_html/cop/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 403
+[19-Aug-2016 08:50:23 CST6CDT] PHP Fatal error:  Call to a member function getAttributeLabel() on null in /home/visconti/public_html/cop/vendor/yiisoft/yii2-bootstrap/ActiveField.php on line 403
+[19-Aug-2016 09:56:09 CST6CDT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/visconti/public_html/cop/controllers/SiteController.php on line 385
+[19-Aug-2016 09:56:12 CST6CDT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/visconti/public_html/cop/controllers/SiteController.php on line 385
+[19-Aug-2016 09:56:13 CST6CDT] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in /home/visconti/public_html/cop/controllers/SiteController.php on line 385
